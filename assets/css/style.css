@@ -189,9 +189,8 @@ figure > figcaption {
 }
 
 .project {
-    flex: 1 1 49%;
+    flex: 0 1 48%;    
 }
-
 
 .hero { 
     height: 300px;

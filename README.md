@@ -11,3 +11,5 @@ The section "resume" contains a link that displays a photo of my resume when fol
 
 The page is also adaptive to clearly display all sections and information on a screen of any size.
 The page contains a navigation menu that sends the user to the desired section of the page.
+
+deployment link:  https://nightbird99.github.io/portfolio/
